@@ -70,8 +70,10 @@
     "webpack-stream": "^6.1.0"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "popper.js": "^1.16.1"
   },
   "editorconfig-cli": [
     "*.json",
